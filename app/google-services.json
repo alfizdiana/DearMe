@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621409506236",
+    "project_id": "dearme-d898b",
+    "storage_bucket": "dearme-d898b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621409506236:android:0a7303dc1cfcd7052e91b9",
+        "android_client_info": {
+          "package_name": "com.capstone.dearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621409506236-1b67pvmoq2p7t35ecid0vfqpsrpjnmhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDx5LXmmkloF9ufpA9Axd7NvWvHV3Yhgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621409506236-1b67pvmoq2p7t35ecid0vfqpsrpjnmhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
